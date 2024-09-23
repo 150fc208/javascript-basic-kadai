@@ -22,4 +22,5 @@ for (let i = 1; i < holidays.length; i++) {
 }
 while (i < holidays.length) {
     console.log(holidays[i]);
+    i++;
 }
